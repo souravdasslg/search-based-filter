@@ -1,0 +1,18 @@
+.list {
+  list-style: none;
+  align-items: center;
+  justify-content: center;
+}
+.list_item {
+  width: 80%;
+  padding: 10px;
+  margin-top: 6px;
+  background: darkblue;
+  color: white;
+  border-radius: 10px;
+  font-size: 12px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  cursor: pointer;
+  max-height: 120px;
+}

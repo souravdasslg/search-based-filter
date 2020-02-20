@@ -1,0 +1,15 @@
+.center {
+  position: relative;
+  margin: 1%;
+}
+.main {
+  height: 600px;
+  width: 300px;
+  background: lightblue;
+  border: 3px solid darkblue;
+}
+.message {
+  color: darkblue;
+  align-items: center;
+  margin: 20px;
+}

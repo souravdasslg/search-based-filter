@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Match Snapshot For Initial Rendering 1`] = `
+<div>
+  <main
+    class="center main"
+  >
+    <div>
+      <input
+        aria-label="Input label to search"
+        class="search_input"
+        placeholder="Type your keyword here"
+      />
+    </div>
+    <div
+      class="message"
+    >
+      "Start searching filters by typings"
+    </div>
+  </main>
+</div>
+`;
