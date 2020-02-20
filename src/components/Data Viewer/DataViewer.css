@@ -14,5 +14,5 @@
   overflow: hidden;
   text-overflow: ellipsis;
   cursor: pointer;
-  max-height: 120px;
+  max-height: 50px;
 }
