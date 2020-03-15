@@ -1,4 +1,5 @@
 import sentences from "../data/sentences";
+
 export const search = keyword => {
   const lowerCaseKeyword = keyword.toLowerCase();
   try {
